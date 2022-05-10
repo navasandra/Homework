@@ -1,9 +1,5 @@
 # Homework
-to run the project 
-download as zip
-extract the project
-open 'demo' folder in your IDE
-run the project as java application
-open postman for get and post requests
+To run the project download it as zip file, extract it and then open 'demo' project in your IDE.
+Run the project as java application and open postman to test out GET and POST requests.
 http://localhost:8080/customers
-before sending post request ensure that the request is sent as json and not plain text
+Before sending POST request ensure that the request is sent as JSON and not PLAIN TEXT.
